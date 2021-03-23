@@ -1,3 +1,5 @@
+jestem szymek robie bałagan 
+
 CREATE TABLE users(
 	user_id INT NOT NULL AUTO_INCREMENT, 
 	name NVARCHAR NOT NULL, 
